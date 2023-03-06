@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=obaydulhoqe.netlify.app&style=for-the-badge&url=https%3A%2F%2Fobaydulhoqe.netlify.app)](https://obaydulhoqe.netlify.app/)
 
 ## I'm a UI&UX Designer, Flutter app and MERN stack web Developer.
-
+<!-- 
 - 🔭 I'm building my own flutter app.
 - 🌱 I'm currently looking for a MERN stack development job.
 - 👯 I'm looking to collaborate with other ui designers.
 - 🥅 2022 Goal: Make 60 Flutter apps.
-- ⚡ Fun fact: I love to work in ioT and learn more techs.
+- ⚡ Fun fact: I love to work in ioT and learn more techs. -->
 
 ### Connect with me:
 
