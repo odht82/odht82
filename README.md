@@ -42,3 +42,11 @@
 [website]: https://obaydulhoqe.netlify.app/
 [facebook]: https://www.facebook.com/ObaydulHoqueTusher
 [linkedin]: https://www.linkedin.com/in/md-obaydul-hoque-6b89b917b/
+
+</br>
+<h3 align="left">View my stats on Github:</h3>
+</br>
+
+[![Md. Obaydul Hoque](https://github-readme-stats.vercel.app/api?username=odht82&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
+
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=odht82&hide=stylus,java&langs_count=10&theme=nightowl)]()
