@@ -49,4 +49,4 @@
 
 [![Md. Obaydul Hoque](https://github-readme-stats.vercel.app/api?username=odht82&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
 
-[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=odht82&hide=stylus,java&langs_count=10&theme=nightowl)]()
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=odht82&hide=stylus,CSS,HTML,CMake,C,SCSS&langs_count=15&theme=nightowl)]()
