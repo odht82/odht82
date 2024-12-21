@@ -4,11 +4,17 @@
 
 ## I'm a Software Engineer.
 <!-- 
-- 🔭 I'm building my own flutter app.
+- 🔭 I'm building my flutter app.
 - 🌱 I'm currently looking for a MERN stack development job.
 - 👯 I'm looking to collaborate with other ui designers.
 - 🥅 2022 Goal: Make 60 Flutter apps.
 - ⚡ Fun fact: I love to work in ioT and learn more techs. -->
+
+- 🔭 I'm developing a full-stack web application builder.
+- 👯 Seeking collaboration with other engineers.
+- 🌱 Actively seeking a position as a full stack engineer.
+- 🥅 2025 Goal: Automating my engineering tasks with internal-tool.
+- ⚡ 2025 Skill Goal: Machine learning, Java, Spring-Boot, WASM.
 
 ### Connect with me:
 
